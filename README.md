@@ -5,10 +5,16 @@
 
 - 🔭 I’m currently working on **Multichannel Marketplace System**
 
+- 🌱 I’m currently learning **Marketing stretegies to boost sale on various channels**
+
 - 📫 How to reach me **garg7017@gmail.com**
+
+- ⚡ Fun fact **I am quite introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/@garg7017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@garg7017" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/garg-lokesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garg-lokesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +22,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/garg7017"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="garg7017" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garg7017&show_icons=true&locale=en&layout=compact" alt="garg7017" /></p>
